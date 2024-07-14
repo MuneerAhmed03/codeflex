@@ -1,0 +1,6 @@
+[submodule "codeflex-app"]
+	path = codeflex-app
+	url = https://github.com/MuneerAhmed03/codeflex-app.git
+[submodule "codeflex-workers"]
+	path = codeflex-workers
+	url = https://github.com/MuneerAhmed03/codeflex-workers.git
